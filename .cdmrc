@@ -1,0 +1,2 @@
+terminals: ["yarn install && yarn dev"]
+tabs: ["src/App.svelte", "src/lib/Counter.svelte"]
